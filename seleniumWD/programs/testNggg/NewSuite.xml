@@ -1,0 +1,9 @@
+<suite name="Regression Suite"> <!-- This is Before Suite  -->
+  <test name="Regression Test 1"> <!-- This is Before Test  -->
+    <classes> <!-- This is Before Class  -->
+      <class name="testNggg.Class1"/>
+      <class name="testNggg.Class2"/>
+      <class name="testNggg.Class1"/>
+    </classes> <!-- This is After Class  -->
+  </test> <!-- This is After Test  -->
+</suite> <!-- This is After Suite  -->

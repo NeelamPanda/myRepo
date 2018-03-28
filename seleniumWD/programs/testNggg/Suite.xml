@@ -1,0 +1,8 @@
+<suite name="Regression Suite">
+  <test name="Regression Test 1">
+    <classes>
+      <class name="testNggg.Class1"/>  <!-- Regression Test 1 -->
+      <class name="testNggg.Class2"/>
+      </classes>
+  </test>
+</suite> 

@@ -1,0 +1,5 @@
+WinActivate("File Upload")
+ControlFocus("File Upload","","Edit1")
+ControlSetText("File Upload","","Edit1","D:\Neelam_Panda_Resume.docx")
+Sleep(3000)
+ControlClick("File Upload","", "Button1")
